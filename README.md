@@ -1,2 +1,2 @@
-# Werepedia-
+# Werepedia
 https://werepedia.vercel.app
