@@ -13,3 +13,4 @@ The goal of Werepedia is to offer a structured and easy-to-navigate knowledge ba
 
 Topics:
 werewolf game, mafia game, plato, social deduction, party games, role explanations, game rules
+https://werepedia.com/en | https://werepedia.com/es | https://werepedia.com/fr | https://werepedia.com/pt
