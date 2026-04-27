@@ -1,5 +1,5 @@
 # Werepedia
-https://werepedia.vercel.app
+https://werepedia.com
 
 Werepedia is a multilingual reference guide for the game Werewolf (Mafia) on Plato.
 
@@ -7,6 +7,7 @@ It provides clear explanations of roles, rules, and gameplay variations in:
 - English
 - Spanish
 - French
+- Portuguese
 
 The goal of Werepedia is to offer a structured and easy-to-navigate knowledge base for players.
 
